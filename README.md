@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas!
+- In my repositories you'll find some personal proyects, mostly to practice.
+- I’m currently learning C# .NET , JAVA, and some js
+- You can reach me on my personal mail lucascordoba77@gmail.com
